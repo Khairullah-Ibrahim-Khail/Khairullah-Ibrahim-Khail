@@ -338,8 +338,11 @@ flowchart TB
 | 🌐 | **CCNP** — Cisco Certified Network Professional | CARVIT, Peshawar |
 | 🔥 | **Firewall Administration** | CARVIT, Peshawar |
 | 🖥️ | **Windows Server 2016 Administration** | CARVIT, Peshawar |
+| 🤖 | **Machine Learning Certification** | CodeBasic|
+| 🐍 | **Python Programming Certification** | Udemy|
+| 📊 | **Power BI Certification** | Simplilearn|
 
-</div>
+</div> 
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
