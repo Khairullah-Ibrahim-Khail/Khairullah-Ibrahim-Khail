@@ -1,10 +1,11 @@
+
 <div align="center">
 
 <!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&height=300&section=header&text=Khairullah%20Ibrahim%20Khail&fontSize=65&fontColor=fff&animation=twinkling&desc=⚡%20Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20DevOps%20Enthusiast%20⚡&descSize=22&descAlignY=78&rotate=0&speed=8&scale=1.5&stroke=00FF88&strokeWidth=2" width="100%"/>
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Master's+in+Data+Science+🎓;AI+%26+Machine+Learning+Engineer+🤖;Full-Stack+Developer+💻;DevOps+%26+Cloud+Learner+☁️;CCNA+%7C+CCNP+Network+Professional+🌐;Turning+Coffee+into+Code+☕" alt="Typing Animation" /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Master's+in+Data+Science+🎓;AI+%26+Machine+Learning+Engineer+🤖;Full-Stack+Developer+💻;DevOps+%26+Cloud+Professional+☁️;CCNA+%7C+CCNP+Network+Professional+🌐;Turning+Coffee+into+Code+☕" alt="Typing Animation" /></a>
 
 <!-- ═══════════════ ANIMATED LINE DIVIDER ═══════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -29,10 +30,10 @@ Hi, I'm **Khairullah Ibrahim Khail** 👋 — from **Afghanistan** 🇦🇫, cur
 I am passionate about leveraging **AI, Machine Learning, Data Science, and Full-Stack Development** to solve practical, real-world problems. I combine strong technical expertise in **programming, networking, databases, hardware, and system design** with experience in **project management** to deliver efficient and scalable solutions.
 
 - 🔭 Currently working on **ML + IoT and Data Science projects**
-- ☁️ Currently diving deep into **AWS Cloud** — after completing **Git, GitHub, GitLab & Docker**
+- ☁️ Completed **AWS Cloud, Ansible & Terraform** — now diving into **Jenkins CI/CD**
 - 🗣️ Built ML models for **Pashto Sentiment Analysis** (low-resource language NLP!)
 - 🌐 Certified network professional — **CCNA & CCNP**
-- 💬 Ask me about **Python, ML, Networking, and Web Development**
+- 💬 Ask me about **Python, ML, DevOps, Cloud, and Web Development**
 - 📫 Reach me at **ibrahimkhil975@gmail.com**
 
 <br clear="right"/>
@@ -66,11 +67,14 @@ I am passionate about leveraging **AI, Machine Learning, Data Science, and Full-
 
 ### 🚀 DevOps & Cloud
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,ansible,terraform,jenkins&theme=light" />
 <br/>
 <img src="https://img.shields.io/badge/Git_✔-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker_✔-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_(learning)-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_✔-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible_✔-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform_✔-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins_(Learning)-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </div>
 
 ### 🗄️ Databases & Desktop GUI
@@ -180,7 +184,7 @@ I am passionate about leveraging **AI, Machine Learning, Data Science, and Full-
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=600&color=F75C7E&center=true&vCenter=true&width=650&lines=Git+✔+GitHub+✔+GitLab+✔+Docker+✔;Now+Conquering:+AWS+Cloud+☁️;From+Git+Commit+to+Cloud+Deploy+🚀" alt="DevOps Cycle Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=600&color=F75C7E&center=true&vCenter=true&width=650&lines=Git+✔+GitHub+✔+GitLab+✔+Docker+✔;AWS+✔+Ansible+✔+Terraform+✔;Now+Conquering:+Jenkins+CI/CD+🚀" alt="DevOps Cycle Animation" />
 
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="480" alt="DevOps Animation">
 
@@ -191,10 +195,10 @@ I am passionate about leveraging **AI, Machine Learning, Data Science, and Full-
 | 1️⃣ | Version Control | Git • GitHub • GitLab | ✅ Completed | ![](https://geps.dev/progress/100) |
 | 2️⃣ | Linux & Scripting | Bash • Kali • Ubuntu | ✅ Completed | ![](https://geps.dev/progress/100) |
 | 3️⃣ | Containers | Docker • Compose | ✅ Completed | ![](https://geps.dev/progress/100) |
-| 4️⃣ | Cloud ☁️ | **AWS** (EC2 • S3 • IAM • VPC) | 🔥 Learning NOW | ![](https://geps.dev/progress/40) |
-| 5️⃣ | CI/CD | Actions • GitLab CI • Jenkins | 🎯 Up Next | ![](https://geps.dev/progress/20) |
-| 6️⃣ | Orchestration | Kubernetes • Helm | 📚 Planned | ![](https://geps.dev/progress/10) |
-| 7️⃣ | IaC | Terraform • Ansible | 📚 Planned | ![](https://geps.dev/progress/10) |
+| 4️⃣ | Cloud ☁️ | **AWS** (EC2 • S3 • IAM • VPC • RDS • Lambda) | ✅ Completed | ![](https://geps.dev/progress/100) |
+| 5️⃣ | Infrastructure as Code | **Terraform • Ansible** | ✅ Completed | ![](https://geps.dev/progress/100) |
+| 6️⃣ | CI/CD 🔥 | **Jenkins** | 🔥 Learning NOW | ![](https://geps.dev/progress/40) |
+| 7️⃣ | Orchestration | Kubernetes • Helm | 📚 Planned | ![](https://geps.dev/progress/10) |
 | 8️⃣ | Monitoring | Prometheus • Grafana | 📚 Planned | ![](https://geps.dev/progress/5) |
 | 9️⃣ | DevSecOps | Vault • SonarQube | 📚 Planned | ![](https://geps.dev/progress/5) |
 
@@ -207,31 +211,31 @@ flowchart TB
         direction LR
         A["Git · GitHub · GitLab"] --- B["Linux · Bash"] --- C["🐳 Docker"]
     end
-    subgraph F2["🔥 LEARNING NOW"]
+    subgraph F2["✅ COMPLETED"]
         direction LR
-        D["☁️ AWS<br/>EC2 · S3 · IAM · VPC"]
+        D["☁️ AWS"] --- E["🏗️ Terraform"] --- F["⚙️ Ansible"]
     end
-    subgraph F3["🎯 UP NEXT"]
+    subgraph F3["🔥 LEARNING NOW"]
         direction LR
-        E["CI/CD<br/>Actions · Jenkins"] --- F["Kubernetes<br/>Helm"] --- G["Terraform<br/>Ansible"]
+        G["🔧 Jenkins CI/CD"]
     end
     subgraph F4["📚 PLANNED"]
         direction LR
-        H["Prometheus<br/>Grafana"] --- I["Azure · GCP"] --- J["DevSecOps"]
+        H["☸️ Kubernetes"] --- I["📊 Monitoring"] --- J["🔐 DevSecOps"]
     end
     F1 ==> F2 ==> F3 ==> F4
 
     style F1 fill:#0d2818,stroke:#2ea043,stroke-width:2px,color:#e6edf3
-    style F2 fill:#341a00,stroke:#ff9900,stroke-width:3px,color:#e6edf3
-    style F3 fill:#0c2d48,stroke:#1f6feb,stroke-width:2px,color:#e6edf3
+    style F2 fill:#0d2818,stroke:#2ea043,stroke-width:2px,color:#e6edf3
+    style F3 fill:#341a00,stroke:#ff9900,stroke-width:3px,color:#e6edf3
     style F4 fill:#271052,stroke:#8957e5,stroke-width:2px,color:#e6edf3
     style A fill:#161b22,stroke:#2ea043,color:#e6edf3
     style B fill:#161b22,stroke:#2ea043,color:#e6edf3
     style C fill:#161b22,stroke:#2ea043,color:#e6edf3
-    style D fill:#161b22,stroke:#ff9900,stroke-width:2px,color:#e6edf3
-    style E fill:#161b22,stroke:#1f6feb,color:#e6edf3
-    style F fill:#161b22,stroke:#1f6feb,color:#e6edf3
-    style G fill:#161b22,stroke:#1f6feb,color:#e6edf3
+    style D fill:#161b22,stroke:#2ea043,color:#e6edf3
+    style E fill:#161b22,stroke:#2ea043,color:#e6edf3
+    style F fill:#161b22,stroke:#2ea043,color:#e6edf3
+    style G fill:#161b22,stroke:#ff9900,stroke-width:2px,color:#e6edf3
     style H fill:#161b22,stroke:#8957e5,color:#e6edf3
     style I fill:#161b22,stroke:#8957e5,color:#e6edf3
     style J fill:#161b22,stroke:#8957e5,color:#e6edf3
@@ -264,25 +268,34 @@ flowchart TB
 
 > 🎯 Dockerfiles • Images & Layers • Multi-Stage Builds • Networks & Volumes • Registries
 
-### ☁️ Stage 4 — Cloud: AWS 🔥 Learning NOW
+### ☁️ Stage 4 — Cloud: AWS ✅ COMPLETED
 <div align="center">
 <img src="https://skillicons.dev/icons?i=aws&theme=light" />
 <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
 </div>
 
-> 🎯 EC2 Instances • S3 Storage • IAM Security • VPC & Networking • Lambda Serverless • RDS
+> 🎯 EC2 Instances • S3 Storage • IAM Security • VPC & Networking • Lambda Serverless • RDS • Auto Scaling • Load Balancers
 
-### ⚙️ Stage 5 — CI/CD Pipelines 🎯
+### 🏗️ Stage 5 — Infrastructure as Code ✅ COMPLETED
+<div align="center">
+<img src="https://skillicons.dev/icons?i=terraform,ansible&theme=light" />
+<img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white"/>
+</div>
+
+> 🎯 Terraform Modules & State • Ansible Playbooks & Roles • Provisioning • Config Management • AWS Resource Provisioning
+
+### ⚙️ Stage 6 — CI/CD Pipelines 🔥 LEARNING NOW
 <div align="center">
 <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins&theme=light" />
 </div>
 
-> 🎯 Automated Builds • Testing Automation • Continuous Deployment • Pipeline as Code • Artifacts
+> 🎯 Jenkins Pipeline as Code • Declarative & Scripted Pipelines • Plugins • Distributed Builds • Automated Testing • Deployment Automation
 
-### ☸️ Stage 6 — Container Orchestration 📚
+### ☸️ Stage 7 — Container Orchestration 📚
 <div align="center">
 <img src="https://skillicons.dev/icons?i=kubernetes&theme=light" />
 <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
@@ -290,14 +303,6 @@ flowchart TB
 </div>
 
 > 🎯 Pods & Deployments • Services & Ingress • ConfigMaps & Secrets • Auto-Scaling • Helm Charts
-
-### 🏗️ Stage 7 — Infrastructure as Code 📚
-<div align="center">
-<img src="https://skillicons.dev/icons?i=terraform,ansible&theme=light" />
-<img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white"/>
-</div>
-
-> 🎯 Terraform Modules & State • Ansible Playbooks & Roles • Provisioning • Config Management
 
 ### 📊 Stage 8 — Monitoring & Observability 📚
 <div align="center">
@@ -424,3 +429,6 @@ flowchart TB
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
+ 
+ 
+ 
