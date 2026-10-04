@@ -12,7 +12,7 @@
 
 <!-- ═══════════════ BADGES ROW ═══════════════ -->
 <p>
-<img src="https://komarev.com/ghpvc/?username=Sahil31312&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Khairullah-Ibrahim-Khail&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/badge/Focus-DevOps_&_AI-brightgreen?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Living-Peshawar,_PK-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/From-Afghanistan_🇦🇫-red?style=for-the-badge"/>
@@ -30,7 +30,7 @@ Hi, I'm **Khairullah Ibrahim Khail** 👋 — from **Afghanistan** 🇦🇫, cur
 I am passionate about leveraging **AI, Machine Learning, Data Science, and Full-Stack Development** to solve practical, real-world problems. I combine strong technical expertise in **programming, networking, databases, hardware, and system design** with experience in **project management** to deliver efficient and scalable solutions.
 
 - 🔭 Currently working on **ML + IoT and Data Science projects**
-- ☁️ Completed **AWS Cloud, Ansible & Terraform** — now diving into **Jenkins CI/CD**
+- ☁️ Completed **AWS, Terraform, Ansible and Jenkins CI/CD** — now **55% through Kubernetes**
 - 🗣️ Built ML models for **Pashto Sentiment Analysis** (low-resource language NLP!)
 - 🌐 Certified network professional — **CCNA & CCNP**
 - 💬 Ask me about **Python, ML, DevOps, Cloud, and Web Development**
@@ -99,6 +99,56 @@ I am passionate about leveraging **AI, Machine Learning, Data Science, and Full-
 
 <!-- ═══════════════ 3. PROJECTS (what I've BUILT) ═══════════════ -->
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35px"> Key Projects — What I've Built
+
+<div align="center">
+
+### ⭐ Featured — Open Source & Published Work
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+**📦 pashto-toolkit**
+
+<a href="https://github.com/Khairullah-Ibrahim-Khail/pashto-toolkit">
+<img src="https://img.shields.io/badge/Python_Library-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+
+Afghan test data in Pashto script and transliteration. **Zero dependencies**, 250+ tests, CI across Python 3.9–3.13.
+
+<img src="https://img.shields.io/badge/dependencies-none-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/tests-passing-brightgreen?style=flat-square"/>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🔀 Contribution to Faker**
+
+<a href="https://github.com/joke2k/faker/pull/2293">
+<img src="https://img.shields.io/badge/Open_PR_%232293-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+Added the Afghanistan locale (`pa_AF`, `en_AF`) to **Faker** — 18k★, ~70M downloads/month.
+
+<img src="https://img.shields.io/github/stars/joke2k/faker?style=flat-square&label=upstream%20stars"/>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**📊 Pashto NLP Datasets**
+
+<a href="https://github.com/Khairullah-Ibrahim-Khail/pashto-sentiment-dataset">
+<img src="https://img.shields.io/badge/Datasets-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+
+Sentiment and 12-class topic corpora for a **low-resource language**, with original orthography preserved.
+
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pashto-عربي-green?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 <table>
 <tr>
@@ -184,7 +234,7 @@ I am passionate about leveraging **AI, Machine Learning, Data Science, and Full-
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=600&color=F75C7E&center=true&vCenter=true&width=650&lines=Git+✔+GitHub+✔+GitLab+✔+Docker+✔;AWS+✔+Ansible+✔+Terraform+✔;Now+Conquering:+Jenkins+CI/CD+🚀" alt="DevOps Cycle Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=600&color=F75C7E&center=true&vCenter=true&width=650&lines=Git+✔+GitHub+✔+GitLab+✔+Docker+✔;AWS+✔+Ansible+✔+Terraform+✔+Jenkins+✔;Now+Conquering:+Kubernetes+☸️+55%25" alt="DevOps Cycle Animation" />
 
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="480" alt="DevOps Animation">
 
@@ -197,8 +247,8 @@ I am passionate about leveraging **AI, Machine Learning, Data Science, and Full-
 | 3️⃣ | Containers | Docker • Compose | ✅ Completed | ![](https://geps.dev/progress/100) |
 | 4️⃣ | Cloud ☁️ | **AWS** (EC2 • S3 • IAM • VPC • RDS • Lambda) | ✅ Completed | ![](https://geps.dev/progress/100) |
 | 5️⃣ | Infrastructure as Code | **Terraform • Ansible** | ✅ Completed | ![](https://geps.dev/progress/100) |
-| 6️⃣ | CI/CD 🔥 | **Jenkins** | 🔥 Learning NOW | ![](https://geps.dev/progress/40) |
-| 7️⃣ | Orchestration | Kubernetes • Helm | 📚 Planned | ![](https://geps.dev/progress/10) |
+| 6️⃣ | CI/CD | **Jenkins** | ✅ Completed | ![](https://geps.dev/progress/100) |
+| 7️⃣ | Orchestration 🔥 | **Kubernetes** • Helm | 🔥 Learning NOW | ![](https://geps.dev/progress/55) |
 | 8️⃣ | Monitoring | Prometheus • Grafana | 📚 Planned | ![](https://geps.dev/progress/5) |
 | 9️⃣ | DevSecOps | Vault • SonarQube | 📚 Planned | ![](https://geps.dev/progress/5) |
 
@@ -215,28 +265,33 @@ flowchart TB
         direction LR
         D["☁️ AWS"] --- E["🏗️ Terraform"] --- F["⚙️ Ansible"]
     end
-    subgraph F3["🔥 LEARNING NOW"]
+    subgraph F3["✅ COMPLETED"]
         direction LR
         G["🔧 Jenkins CI/CD"]
     end
-    subgraph F4["📚 PLANNED"]
+    subgraph F4["🔥 LEARNING NOW"]
         direction LR
-        H["☸️ Kubernetes"] --- I["📊 Monitoring"] --- J["🔐 DevSecOps"]
+        H["☸️ Kubernetes · Helm"]
     end
-    F1 ==> F2 ==> F3 ==> F4
+    subgraph F5["📚 PLANNED"]
+        direction LR
+        I["📊 Monitoring"] --- J["🔐 DevSecOps"]
+    end
+    F1 ==> F2 ==> F3 ==> F4 ==> F5
 
     style F1 fill:#0d2818,stroke:#2ea043,stroke-width:2px,color:#e6edf3
     style F2 fill:#0d2818,stroke:#2ea043,stroke-width:2px,color:#e6edf3
-    style F3 fill:#341a00,stroke:#ff9900,stroke-width:3px,color:#e6edf3
-    style F4 fill:#271052,stroke:#8957e5,stroke-width:2px,color:#e6edf3
+    style F3 fill:#0d2818,stroke:#2ea043,stroke-width:2px,color:#e6edf3
+    style F4 fill:#341a00,stroke:#ff9900,stroke-width:3px,color:#e6edf3
+    style F5 fill:#271052,stroke:#8957e5,stroke-width:2px,color:#e6edf3
     style A fill:#161b22,stroke:#2ea043,color:#e6edf3
     style B fill:#161b22,stroke:#2ea043,color:#e6edf3
     style C fill:#161b22,stroke:#2ea043,color:#e6edf3
     style D fill:#161b22,stroke:#2ea043,color:#e6edf3
     style E fill:#161b22,stroke:#2ea043,color:#e6edf3
     style F fill:#161b22,stroke:#2ea043,color:#e6edf3
-    style G fill:#161b22,stroke:#ff9900,stroke-width:2px,color:#e6edf3
-    style H fill:#161b22,stroke:#8957e5,color:#e6edf3
+    style G fill:#161b22,stroke:#2ea043,color:#e6edf3
+    style H fill:#161b22,stroke:#ff9900,stroke-width:2px,color:#e6edf3
     style I fill:#161b22,stroke:#8957e5,color:#e6edf3
     style J fill:#161b22,stroke:#8957e5,color:#e6edf3
 ```
@@ -288,14 +343,14 @@ flowchart TB
 
 > 🎯 Terraform Modules & State • Ansible Playbooks & Roles • Provisioning • Config Management • AWS Resource Provisioning
 
-### ⚙️ Stage 6 — CI/CD Pipelines 🔥 LEARNING NOW
+### ⚙️ Stage 6 — CI/CD Pipelines ✅ COMPLETED
 <div align="center">
 <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins&theme=light" />
 </div>
 
 > 🎯 Jenkins Pipeline as Code • Declarative & Scripted Pipelines • Plugins • Distributed Builds • Automated Testing • Deployment Automation
 
-### ☸️ Stage 7 — Container Orchestration 📚
+### ☸️ Stage 7 — Container Orchestration 🔥 LEARNING NOW
 <div align="center">
 <img src="https://skillicons.dev/icons?i=kubernetes&theme=light" />
 <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
@@ -353,30 +408,29 @@ flowchart TB
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sahil31312&theme=github_dark" width="100%" alt="GitHub Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khairullah-Ibrahim-Khail&theme=github_dark" width="100%" alt="GitHub Profile Details"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sahil31312&theme=github_dark" width="32%" alt="Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sahil31312&theme=github_dark&utcOffset=5" width="32%" alt="Productive Time"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sahil31312&theme=github_dark" width="32%" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khairullah-Ibrahim-Khail&theme=github_dark" width="32%" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Khairullah-Ibrahim-Khail&theme=github_dark&utcOffset=5" width="32%" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khairullah-Ibrahim-Khail&theme=github_dark" width="32%" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Sahil31312&theme=dark&hide_border=true&background=0D1117&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF" width="49%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Khairullah-Ibrahim-Khail&theme=dark&hide_border=true&background=0D1117&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF" width="49%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khairullah-Ibrahim-Khail&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&langs_count=10" width="40%" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil31312&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=F75C7E&point=FFFFFF" width="95%" alt="Activity Graph"/>
 
 <br/><br/>
 
-<img src="https://metrics.lecoq.io/Sahil31312?template=classic&base.indepth=false&base.hireable=false&achievements=true&achievements.threshold=C&achievements.ignored=publicity%2Csponsorship&achievements.limit=0" width="95%" alt="GitHub Achievements"/>
 
 <br/><br/>
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Sahil31312/Sahil31312/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake Animation"/>
+<img src="https://raw.githubusercontent.com/Khairullah-Ibrahim-Khail/Khairullah-Ibrahim-Khail/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake Animation"/>
 
 </div>
 
@@ -405,7 +459,7 @@ flowchart TB
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/Sahil31312">
+<a href="https://github.com/Khairullah-Ibrahim-Khail">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
